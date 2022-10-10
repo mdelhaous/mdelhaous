@@ -3,9 +3,9 @@
 
 I am EL HAOUS MOUAD, currently a Software Engineering Student.very passionate about coding and new technologies..Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)]([https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/mouad-el-haous-4807291b2/))
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)]([mailto:mdelhaous@gmail.com](https://twitter.com/HaousMouad))
-[![Twitter Badge]https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white(mailto:mdelhaous@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)]([[https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/mouad-el-haous-4807291b2/)](https://www.linkedin.com/in/mouad-el-haous-4807291b2/))
+[![Gmail Badge](https://img.shields.io/badge/-mdelhaous@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdelhaous@gmail.com)]([mailto:mdelhaous@gmail.com](https://twitter.com/HaousMouad))
+)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
