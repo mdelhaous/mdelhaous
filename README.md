@@ -9,8 +9,8 @@ I am EL HAOUS MOUAD, currently a Software Engineering Student.very passionate ab
 
 ## ⚡ Technologies
 
-![Laravel]https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
+![Angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
