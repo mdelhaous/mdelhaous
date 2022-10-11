@@ -22,6 +22,9 @@ I am EL HAOUS MOUAD, currently a Software Engineering Student.very passionate ab
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=Trello)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
