@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I am EL HAOUS MOUAD, currently a Software Engineering Student.very passionate about coding and new technologies..Find out more about me & feel free to connect with me here:
-![Twitter](https://img.shields.io/badge/mdelhaous?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HaousMouad)](https://www.linkedin.com/in/mouad-el-haous-4807291b2/)
+[![Twitter Badge](https://img.shields.io/badge/-mdelhaous-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/mouad-el-haous-4807291b2/)](https://www.linkedin.com/in/mouad-el-haous-4807291b2/)
 [![Linkedin Badge](https://img.shields.io/badge/-mdelhaous-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouad-el-haous-4807291b2/)](https://www.linkedin.com/in/mouad-el-haous-4807291b2/)
 [![Gmail Badge](https://img.shields.io/badge/-mdelhaous@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdelhaous@gmail.com)]([mailto:mdelhaous@gmail.com](https://twitter.com/HaousMouad))
 
