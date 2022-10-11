@@ -5,10 +5,12 @@ I am EL HAOUS MOUAD, currently a Software Engineering Student.very passionate ab
 
 [![Twitter Badge](https://img.shields.io/badge/-mdelhaous-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HaousMouad)](https://twitter.com/HaousMouad)
 [![Linkedin Badge](https://img.shields.io/badge/-mdelhaous-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouad-el-haous-4807291b2/)](https://www.linkedin.com/in/mouad-el-haous-4807291b2/)
-[![Gmail Badge](https://img.shields.io/badge/-mdelhaous@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdelhaous@gmail.com)]([mailto:mdelhaous@gmail.com](https://twitter.com/HaousMouad))
+[![Gmail Badge](https://img.shields.io/badge/-mdelhaous@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdelhaous@gmail.com)]([mailto:mdelhaous@gmail.com]
 
 ## ⚡ Technologies
 
+![Laravel]https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -26,4 +28,3 @@ I am EL HAOUS MOUAD, currently a Software Engineering Student.very passionate ab
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mdelhaous&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
